@@ -2,33 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Ph.D. Candidate in Computer Science and Engineering, Pennsylvania State University
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. candidate in Computer Science and Engineering at Pennsylvania State University, advised by Dr. Shagufta Mehnaz. My research focuses on **privacy and security in machine learning**: understanding why vulnerabilities arise, identifying who is most at risk, and designing defenses that preserve the usefulness of learned models.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My work investigates attribute inference attacks, which recover sensitive information about individuals from machine learning models. I study why privacy risks differ across demographic groups and how the characteristics of individual records can help explain and estimate their vulnerability. These insights guide defenses that reduce privacy leakage while preserving predictive performance. I also work on secure federated learning. In **FLShield**, we use client-side validation to defend against poisoning attacks while accounting for differences in clients' data and the possibility of dishonest validation reports.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My ongoing research examines client-level attribute inference in federated learning, including how an adversary can manipulate training to amplify privacy leakage. Looking ahead, I aim to develop vulnerability-guided privacy defenses for collaborative learning, privacy-aware communication in multi-agent systems, and lightweight privacy protection for cloud inference on resource-constrained devices.
+
+Before Penn State, I was a research assistant at Dartmouth College, a lecturer at BRAC University, and a software engineer at Samsung R&D Institute Bangladesh. I earned my M.S. in Computer Science and Engineering from Penn State in 2024 and my B.S. in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET) in 2018.
+
+See my [publications]({{ '/publications/' | relative_url }}) and [professional activities]({{ '/professional-activities/' | relative_url }}) for more about my work, teaching, and service. My [CV]({{ '/assets/pdf/EhsanulKabir_CV.pdf' | relative_url }}) is also available.
