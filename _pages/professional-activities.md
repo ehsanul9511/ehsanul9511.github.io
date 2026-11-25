@@ -8,28 +8,13 @@ nav_order: 6
 
 #### Teaching Experience
 
-**Penn State University**
-
-Teaching Assistant — Spring 2023, Spring 2024, Fall 2025
-
-| Course | Role | Term |
-| --- | --- | --- |
-| CSE 543 Computer Security | Guest Lecturer | Fall 2026 |
-| Intro to Systems Programming | Teaching Assistant | Fall 2025 |
-| Computer Security | Teaching Assistant | Spring 2024 |
-| Programming and Computation II: Data Structures | Teaching Assistant | Spring 2023 |
-| Security and Privacy | Teaching Assistant | Spring 2023 |
-
-**Dartmouth College — Fall 2021–Fall 2022**
-
-| Course | Role | Terms |
-| --- | --- | --- |
-| Security and Privacy of Machine Learning | Teaching Assistant | 1 term |
-| Discrete Mathematics | Head Teaching Assistant | 2 terms |
-
-**BRAC University — Fall 2019–Summer 2021**
-
-Lecturer — Computer Graphics, Discrete Mathematics, Machine Learning
+- **CSE 543 Computer Security**, Penn State, Guest Lecturer — Fall 2026
+- **Intro to Systems Programming**, Penn State, Teaching Assistant — Fall 2025
+- **Computer Security**, Penn State, Teaching Assistant — Spring 2024
+- **Programming and Computation II: Data Structures**, Penn State, Teaching Assistant — Spring 2023
+- **Security and Privacy of Machine Learning**, Dartmouth College, Teaching Assistant — 1 term, Fall 2021–Fall 2022
+- **Discrete Mathematics**, Dartmouth College, Teaching Assistant — 2 terms, Fall 2021–Fall 2022
+- **Computer Graphics, Discrete Mathematics, Machine Learning**, BRAC University, Lecturer — Fall 2019–Summer 2021
 
 #### Reviewer (Conferences)
 
